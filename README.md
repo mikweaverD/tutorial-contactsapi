@@ -1,2 +1,2 @@
-# JenkinsTutorial
+# tutorial-contactsapi
 Jenkins tutorial
